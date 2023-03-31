@@ -1,0 +1,4 @@
+com/example/calculadoramedia/BuildConfig.java
+ com.example.calculadoramedia.BuildConfig
+com/example/calculadoramedia/MainActivity.java
+ com.example.calculadoramedia.MainActivity
